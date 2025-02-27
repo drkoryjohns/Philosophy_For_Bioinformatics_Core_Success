@@ -1,0 +1,2 @@
+# Philosophy_For_Bioinformatics_Core_Success
+My philosophy for Bioinformatics Core success
